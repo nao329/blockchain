@@ -1,0 +1,18 @@
+[
+    {
+        "index": 0,
+        "time": "1995-12-31T23:59:59.999Z",
+        "prev_hash":"",
+        "hash":"",
+        "tx": {
+            "id":"",
+            "inputs": [],
+            "outputs": []
+        },
+        "validator": {
+            "address":"",
+            "signature":"",
+            "token":0
+        }
+    }
+]
